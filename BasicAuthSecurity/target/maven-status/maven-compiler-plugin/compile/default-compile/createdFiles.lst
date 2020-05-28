@@ -1,0 +1,6 @@
+com\scb\cib\persistence\InMemoryUserRepository.class
+com\scb\cib\controller\UserController.class
+com\scb\cib\persistence\UserRepository.class
+com\scb\cib\model\User.class
+com\scb\cib\SecurityConfig.class
+com\scb\cib\BasicAuthApplication.class
